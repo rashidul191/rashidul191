@@ -4,7 +4,7 @@
 #### I am Full Stack Web Developer
 
 
-Welcome to my GitHub profile. I have extensive understanding of JavaScript, ES6, React, Express, and MongoDB as a Full Stack Developer. I actively pursue new information and technologies as well as skill development.
+Welcome to my GitHub profile. I have an extensive understanding of JavaScript, ES6, React, Express, and MongoDB as a Full Stack Developer. I actively pursue new information and technologies as well as skill development.
 
 #### Skills: HTML5 / CSS3 / BOOTSTRAP / Tailwind / JavaScript / REACT / Firebase / NODE.JS/ MongoDB / Heroku
 
