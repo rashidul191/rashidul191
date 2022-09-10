@@ -1,7 +1,7 @@
 ![I am Full Stack Web Developer](https://qsstudy.com/wp-content/uploads/2020/03/Application-Developer.jpg)
 
 ### Hi there 👋, my name is Rashidul Islam
-#### I am Full Stack Web Developer
+#### I amMERN Stack Developer
 
 
 Welcome to my GitHub profile. I have an extensive understanding of JavaScript, ES6, React, Express, and MongoDB as a Full Stack Developer. I actively pursue new information and technologies as well as skill development.
