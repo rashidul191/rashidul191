@@ -1,4 +1,4 @@
-![I am Full Stack Web Developer](https://www.linkedin.com/in/rashidul191/overlay/background-image/)
+![I am Full Stack Web Developer](https://i.ibb.co/Y2t1sBz/twitter-cover.png)
 
 ### Hi there 👋, my name is Rashidul Islam
 #### I amMERN Stack Developer
