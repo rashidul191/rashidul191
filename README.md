@@ -21,13 +21,13 @@ Welcome to my GitHub profile. I have an extensive understanding of JavaScript, E
 ### Languages and Tools:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.w3schools.com/html/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.w3schools.com/w3css/defaulT.asp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='40'>](https://getbootstrap.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwindcss' height='40'>](https://tailwindcss.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://reactjs.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg' alt='firebase' height='40'>](https://firebase.google.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](https://nodejs.org/en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>](https://www.mongodb.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg' alt='heroku' height='40'>](https://www.heroku.com/)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul191)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidul191&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashidul191)  
 
-![GitHub metrics](https://metrics.lecoq.io/rashidul191)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/rashidul191)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rashidul191)  
 
