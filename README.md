@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile. I have an extensive understanding of JavaScript, ES6, React, Express, and MongoDB as a Full Stack Developer. I actively pursue new information and technologies as well as skill development.
 
-#### Skills: HTML5 | CSS3 | Bootstrap | TailwindCSS | JavaScript | React.js | Firebase | Node.js (Back-End) | Express.js | MongoDB | Heroku | Netlify | Computer Science Engineer
+#### Skills: HTML5 / CSS3 / Bootstrap / TailwindCSS / JavaScript / React.js / Firebase / Node.js / Express.js / MongoDB / Heroku / Netlify / Computer Science Engineer
 
 - 🔭 I’m currently working on JavaScript, React, Node.js, Express.js, Firebase, MongoDB. 
 - 🌱 I’m currently learning TypeScript, React Native 
