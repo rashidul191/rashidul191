@@ -1,7 +1,9 @@
 ![I am Full Stack Web Developer](https://i.ibb.co/Y2t1sBz/twitter-cover.png)
 
 ### Hi there 👋, my name is Rashidul Islam
-#### I amMERN Stack Developer
+#### I'm MERN Stack Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
 
 Welcome to my GitHub profile. I have an extensive understanding of JavaScript, ES6, React, Express, and MongoDB as a Full Stack Developer. I actively pursue new information and technologies as well as skill development.
