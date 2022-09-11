@@ -1,4 +1,4 @@
-![I am Full Stack Web Developer](https://qsstudy.com/wp-content/uploads/2020/03/Application-Developer.jpg)
+![I am Full Stack Web Developer](https://www.linkedin.com/in/rashidul191/overlay/background-image/)
 
 ### Hi there 👋, my name is Rashidul Islam
 #### I amMERN Stack Developer
