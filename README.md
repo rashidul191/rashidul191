@@ -1,6 +1,6 @@
 ![I am MERN Stack Web Developer](https://i.ibb.co/Y2t1sBz/twitter-cover.png)
 
-### Hi there 👋, my name is Rashidul Islam
+### Hi,👋 I'm Rashidul Islam
 #### I'm MERN Stack Developer
 ###### 🖊️ Love to write code
 ###### 🎤 Like to share my knowledge
