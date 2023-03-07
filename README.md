@@ -13,7 +13,8 @@ Welcome to my GitHub profile. I have an extensive understanding of JavaScript, E
 - 🔭 I’m currently working on JavaScript, React, Node.js, Express.js, Firebase, MongoDB. 
 - 🌱 I’m currently learning TypeScript, React Native 
 - 👨‍💻 All of my projects are available at https://github.com/rashidul191
-- 💬 Ask me about HTML5, CSS3, JavaScript, ES6 React 
+- 👨‍ My Resume Chick Here: https://drive.google.com/file/d/1sPNSLQQPX-nEa6bytRF9_YycJkzLfojc/view?usp=sharing
+- 💬 Ask me about HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, ES6, React.js, Node.js, MongoDB and GitHub.
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rashidul191)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashidul191//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rashidul191r/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Rashidul191)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13955964)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/c/Rashidul191)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rashidul191.netlify.app/)
