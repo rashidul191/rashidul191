@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidul191" alt="rashidul191" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel, Vue.js, TypeScript**
+- 🌱 I’m currently learning **Vue.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://rashidul191.netlify.app/](https://rashidul191.netlify.app/)
 
