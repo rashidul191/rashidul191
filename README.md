@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashidul Islam</h1>
-<h3 align="center">Full Stack Software Developer (PHP, Laravel) at Easy It Solution Ltd</h3>
+<h3 align="center">Full Stack Web Developer (PHP, Laravel) at Easy It Solution Ltd</h3>
 
-<img  
- width="100%" height="100%" src="https://media.licdn.com/dms/image/v2/D5616AQE1jUirMzkG_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719935218669?e=1744848000&v=beta&t=eCmTvgP8degGz5RvhWSptR0mXi0zYxton0kaN-QqXYk" alt="img">
+<img width="100%" height="100%" src="https://i.ibb.co/s99v82D8/rashidul191r.png" alt="img">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidul191&label=Profile%20views&color=0e75b6&style=flat" alt="rashidul191" /> </p>
 
