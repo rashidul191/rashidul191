@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashidul Islam</h1>
-<h3 align="center">Full Stack Web Developer (PHP, Laravel) at Easy It Solution Ltd</h3>
+<h3 align="center">Full Stack Software Developer at Easy It Solution Ltd</h3>
 
 <img width="100%" height="100%" src="https://i.ibb.co/s99v82D8/rashidul191r.png" alt="img">
 
