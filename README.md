@@ -3,8 +3,6 @@
 
 <img width="100%" height="100%" src="https://i.ibb.co/s99v82D8/rashidul191r.png" alt="img">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidul191&label=Profile%20views&color=0e75b6&style=flat" alt="rashidul191" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidul191" alt="rashidul191" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js, TypeScript**
